@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BALDINA.png"><SubTexture name="BALDINA idle0000" x="1698" y="0" width="217" height="600" frameX="-372" frameY="-174" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA idle0001" x="1698" y="600" width="176" height="594" frameX="-382" frameY="-179" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA idle0002" x="1514" y="609" width="172" height="593" frameX="-378" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA LEFT0000" x="1440" y="1234" width="371" height="583" frameX="-345" frameY="-183" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA LEFT0001" x="1915" y="0" width="369" height="582" frameX="-359" frameY="-184" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA RIGHT0000" x="398" y="1234" width="470" height="587" frameX="-261" frameY="-184" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA RIGHT0001" x="868" y="1234" width="412" height="586" frameX="-265" frameY="-177" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA UP0000" x="1147" y="622" width="163" height="590" frameX="-372" frameY="-177" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA UP0001" x="1280" y="1234" width="160" height="586" frameX="-387" frameY="-177" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA DOWN0000" x="2082" y="582" width="181" height="573" frameX="-390" frameY="-174" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA DOWN0001" x="1915" y="582" width="167" height="578" frameX="-388" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA TALK0000" x="226" y="1234" width="172" height="593" frameX="-378" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA TALK0001" x="1514" y="609" width="172" height="593" frameX="-378" frameY="-178" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA idle mad0000" x="217" y="0" width="241" height="617" frameX="-372" frameY="-157" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA idle mad0001" x="0" y="0" width="217" height="622" frameX="-382" frameY="-151" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA idle mad0002" x="458" y="0" width="191" height="616" frameX="-377" frameY="-155" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA LEFT mad0000" x="372" y="622" width="365" height="610" frameX="-351" frameY="-156" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA LEFT mad0001" x="1310" y="0" width="388" height="609" frameX="-340" frameY="-157" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA RIGHT mad0000" x="840" y="0" width="470" height="614" frameX="-261" frameY="-157" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA RIGHT mad0001" x="737" y="622" width="410" height="610" frameX="-267" frameY="-153" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA UP mad0000" x="0" y="622" width="185" height="612" frameX="-376" frameY="-155" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA UP mad0001" x="185" y="622" width="187" height="611" frameX="-392" frameY="-152" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA DOWN mad0000" x="0" y="1234" width="226" height="595" frameX="-390" frameY="-152" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA DOWN mad0001" x="1310" y="609" width="204" height="606" frameX="-388" frameY="-150" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA TALK mad0000" x="649" y="0" width="191" height="616" frameX="-377" frameY="-155" frameWidth="900" frameHeight="900" />
+<SubTexture name="BALDINA TALK mad0001" x="458" y="0" width="191" height="616" frameX="-377" frameY="-155" frameWidth="900" frameHeight="900" />
+</TextureAtlas>

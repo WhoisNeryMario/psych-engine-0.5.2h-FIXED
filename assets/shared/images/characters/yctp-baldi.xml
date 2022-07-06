@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="YCTP-BALDI.png"><SubTexture name="YCTP BALDI idle0000" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0000" x="2416" y="2525" width="302" height="303" frameX="-40" frameY="-97" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0001" x="2114" y="2525" width="302" height="305" frameX="-40" frameY="-95" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0002" x="1208" y="2525" width="302" height="309" frameX="-40" frameY="-91" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0003" x="2718" y="945" width="302" height="314" frameX="-40" frameY="-86" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0004" x="604" y="0" width="302" height="317" frameX="-40" frameY="-83" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI UP0005" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0000" x="604" y="2525" width="302" height="311" frameX="-40" frameY="-89" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0001" x="0" y="2525" width="302" height="312" frameX="-40" frameY="-88" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0002" x="2718" y="1259" width="302" height="314" frameX="-40" frameY="-86" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0003" x="2718" y="1573" width="302" height="313" frameX="-40" frameY="-87" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0004" x="2718" y="1886" width="302" height="313" frameX="-40" frameY="-87" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI DOWN0005" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0000" x="0" y="0" width="302" height="318" frameX="-40" frameY="-82" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0001" x="302" y="0" width="302" height="318" frameX="-40" frameY="-82" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0002" x="0" y="318" width="302" height="317" frameX="-40" frameY="-83" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0003" x="302" y="318" width="302" height="317" frameX="-40" frameY="-83" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0004" x="604" y="318" width="302" height="316" frameX="-40" frameY="-84" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI LEFT0005" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0000" x="1510" y="2525" width="302" height="309" frameX="-40" frameY="-91" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0001" x="1812" y="2525" width="302" height="309" frameX="-40" frameY="-91" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0002" x="906" y="2525" width="302" height="310" frameX="-40" frameY="-90" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0003" x="302" y="2525" width="302" height="312" frameX="-40" frameY="-88" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0004" x="2718" y="2199" width="302" height="313" frameX="-40" frameY="-87" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI RIGHT0005" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0000" x="906" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0001" x="906" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0002" x="0" y="635" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0003" x="302" y="635" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0004" x="604" y="635" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0005" x="906" y="635" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0006" x="1208" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0007" x="1208" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0008" x="1208" y="630" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0009" x="0" y="950" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0010" x="302" y="950" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0011" x="604" y="950" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0012" x="906" y="950" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0013" x="1208" y="950" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0014" x="1510" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0015" x="1510" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0016" x="1510" y="630" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0017" x="1510" y="945" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0018" x="0" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0019" x="302" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0020" x="604" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0021" x="906" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0022" x="1208" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0023" x="1510" y="1265" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0024" x="1812" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0025" x="1812" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0026" x="1812" y="630" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0027" x="1812" y="945" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0028" x="1812" y="1260" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0029" x="0" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0030" x="302" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0031" x="604" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0032" x="906" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0033" x="1208" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0034" x="1510" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0035" x="1812" y="1580" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0036" x="2114" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0037" x="2114" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0038" x="2114" y="630" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0039" x="2114" y="945" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0040" x="2114" y="1260" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0041" x="2114" y="1575" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0042" x="0" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0043" x="302" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0044" x="604" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0045" x="906" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0046" x="1208" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0047" x="1510" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0048" x="1812" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0049" x="2114" y="1895" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0050" x="2416" y="0" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0051" x="2416" y="315" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0052" x="2416" y="630" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0053" x="2416" y="945" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0054" x="2416" y="1260" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0055" x="2416" y="1575" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0056" x="2416" y="1890" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0057" x="0" y="2210" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0058" x="302" y="2210" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0059" x="604" y="2210" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP BALDI angry0060" x="604" y="2210" width="302" height="315" frameX="-40" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0000" x="906" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0001" x="1306" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0002" x="1706" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0003" x="2106" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0004" x="2718" y="0" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0005" x="2718" y="315" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0006" x="2718" y="630" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0007" x="2718" y="315" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0008" x="2718" y="0" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0009" x="2106" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0010" x="1706" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+<SubTexture name="YCTP-BALDI TALK0011" x="1306" y="2210" width="400" height="315" frameX="0" frameY="-85" frameWidth="400" frameHeight="400" />
+</TextureAtlas>
